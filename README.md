@@ -34,4 +34,4 @@
 32. UNIVERSAL MODEL ROUTING FOR EFFICIENT LLM INFERENCE - [https://openreview.net/pdf?id=ka82fvJ5f1](https://openreview.net/pdf?id=ka82fvJ5f1)
 33. Route to Rome Attack: Directing LLM Routers to Expensive Models Via Adversarial
 Suffix Optimization - arXiv, [https://arxiv.org/html/2604.15022v1](https://arxiv.org/html/2604.15022v1)
-
+OmniRouter: Budget and Performance Controllable Multi-LLM Routing (SIGKDD, 2025) - [https://arxiv.org/pdf/2502.20576]
