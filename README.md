@@ -33,6 +33,6 @@
 31. TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing - [https://openreview.net/attachment?id=UWvHJtnmc2&name=pdf](https://openreview.net/attachment?id=UWvHJtnmc2&name=pdf)
 32. UNIVERSAL MODEL ROUTING FOR EFFICIENT LLM INFERENCE - [https://openreview.net/pdf?id=ka82fvJ5f1](https://openreview.net/pdf?id=ka82fvJ5f1)
 33. Route to Rome Attack: Directing LLM Routers to Expensive Models Via Adversarial
-Suffix Optimization - arXiv, [https://arxiv.org/html/2604.15022v1](https://arxiv.org/html/2604.15022v1)
-OmniRouter: Budget and Performance Controllable Multi-LLM Routing (SIGKDD, 2025) - [https://arxiv.org/pdf/2502.20576]
-Let the LLM Stick to Its Strengths: Learning to Route Economical LLM (NeurIPS, 2025) - [https://proceedings.neurips.cc/paper_files/paper/2025/file/305a5630c29aaca434e3415fc4638eb2-Paper-Conference.pdf]
+34. Suffix Optimization - arXiv, [https://arxiv.org/html/2604.15022v1](https://arxiv.org/html/2604.15022v1)
+35. OmniRouter: Budget and Performance Controllable Multi-LLM Routing (SIGKDD, 2025) - [https://arxiv.org/pdf/2502.20576]
+36. Let the LLM Stick to Its Strengths: Learning to Route Economical LLM (NeurIPS, 2025) - [https://proceedings.neurips.cc/paper_files/paper/2025/file/305a5630c29aaca434e3415fc4638eb2-Paper-Conference.pdf]
